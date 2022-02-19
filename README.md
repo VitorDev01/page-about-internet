@@ -234,7 +234,7 @@
 
          
 
-         <p2>©vitordev01 from guthub pages last update on 02/19/22</p2>
+         <p2>©vitordev01 from github pages last update on 02/19/22</p2>
 
          
 
